@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import styled from 'styled-components';
 
-import Header from './Header.js'
-import Footer from './Footer.js'
+import Header from './header.js'
+import Footer from './footer.js'
 
 export const ColorScheme = {
   primary: 'red',
@@ -41,3 +41,7 @@ class App extends Component {
         <Footer />
       </AppDiv>
     );
+  }
+}
+
+export default App;
