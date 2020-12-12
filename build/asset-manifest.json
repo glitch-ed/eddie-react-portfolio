@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/https//:glitch-ed.github.io/eddie-react-portfolio/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/https//:glitch-ed.github.io/eddie-react-portfolio/static/js/main.506a3168.chunk.js",
+    "main.js.map": "/https//:glitch-ed.github.io/eddie-react-portfolio/static/js/main.506a3168.chunk.js.map",
+    "runtime-main.js": "/https//:glitch-ed.github.io/eddie-react-portfolio/static/js/runtime-main.69993ee5.js",
+    "runtime-main.js.map": "/https//:glitch-ed.github.io/eddie-react-portfolio/static/js/runtime-main.69993ee5.js.map",
+    "static/js/2.903bc58a.chunk.js": "/https//:glitch-ed.github.io/eddie-react-portfolio/static/js/2.903bc58a.chunk.js",
+    "static/js/2.903bc58a.chunk.js.map": "/https//:glitch-ed.github.io/eddie-react-portfolio/static/js/2.903bc58a.chunk.js.map",
+    "static/js/3.7e1bca59.chunk.js": "/https//:glitch-ed.github.io/eddie-react-portfolio/static/js/3.7e1bca59.chunk.js",
+    "static/js/3.7e1bca59.chunk.js.map": "/https//:glitch-ed.github.io/eddie-react-portfolio/static/js/3.7e1bca59.chunk.js.map",
+    "index.html": "/https//:glitch-ed.github.io/eddie-react-portfolio/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/https//:glitch-ed.github.io/eddie-react-portfolio/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.903bc58a.chunk.js.LICENSE.txt": "/https//:glitch-ed.github.io/eddie-react-portfolio/static/js/2.903bc58a.chunk.js.LICENSE.txt",
+    "static/media/self.jpg": "/https//:glitch-ed.github.io/eddie-react-portfolio/static/media/self.c90d74ec.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69993ee5.js",
+    "static/js/2.903bc58a.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.506a3168.chunk.js"
+  ]
+}
