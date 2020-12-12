@@ -1,20 +1,31 @@
-import React from 'react';
-import { IndexRoute, Router, Route, hashHistory} from 'react-router';
+module.exports = (server, app) => {
+  // Fixes error where about page isnt rendered with extra forward slash
+  server.get('/about/', (req, res) => {
+    app.render(req, res, '/about');
+  });
 
-import App from './containers/App'
-import Home from './containers/home'
-import Code from './containers/code'
-import Life from './containers/life'
-import Contact from './containers/contact'
+  // Renders about page no matter what is after
+  server.get('/about/:page', (req, res) => {
+    app.render(req, res, '/about');
+  });
 
-export default (
-    <Router history={hashHistory}>
-      <Route path='/' component={App}>
-        <IndexRoute component={Home}/>
-        <Route path='/code' component={Code} />
-        <Route path='/life' component={Life} />
-        <Route path='/contact' component={Contact} />
-      </Route>
-    </Router>
+  // Fixes error where about page isnt rendered with extra forward slash
+  server.get('/about', (req, res) => {
+    app.render(req, res, '/about');
+  });
 
-);
+  // Fixes error where contact page isnt rendered with extra forward slash
+  server.get('/contact/', (req, res) => {
+    app.render(req, res, '/contact');
+  });
+
+  // Renders contact page no matter what is after
+  server.get('/contact/:page', (req, res) => {
+    app.render(req, res, '/contact');
+  });
+
+  // Fixes error where contact page isnt rendered with extra forward slash
+  server.get('/contact', (req, res) => {
+    app.render(req, res, '/contact');
+  });
+};
