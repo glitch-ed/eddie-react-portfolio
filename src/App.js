@@ -9,8 +9,8 @@ import {
 
 import "cirrus-ui";
 import Home from "./components/home";
-import ContactMe from "./components/contactMe";
-import Work from "./components/projects";
+import Contact from "./components/contactMe";
+import Projects from "./components/projects";
 import Header from "./components/header";
 import About from "./components/about";
 
@@ -24,14 +24,14 @@ function App() {
         <Route exact path="/">
           <Home />
         </Route>
-        <Route  path = "/about">
+        <Route  path = "/about">s
           <About />
         </Route>
         <Route path="/work">
-          <Work />
+          <Projects />
         </Route>
         <Route path="/contactme">
-          <ContactMe />
+          <Contact />
         </Route>
       </Switch>
     </div>

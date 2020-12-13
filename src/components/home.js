@@ -8,9 +8,8 @@ const Hero = () => {
      
         <div className="hero-body u-flex u-flex-column u-justify-center u-text-center">
         <div className="mx-auto">
-            <h1 className="title uppercase text-light headline-4 animated bounce gradientText">Eddie Villarreal</h1>
-            <h3 className="subtitle text-primary font-alt ">Full Stack Web Developer</h3></div>
-            <a className="m-1 text-primary uppercase hover-grow" href="#/work"><button className="btn-dark hover-grow">Portfolio <i class="fas fa-code animated pulse text-primary"></i></button></a>
+            <h1 className="title uppercase text-dark headline-4 animated fadeIn ">Eddie Villarreal</h1>
+            <h3 className="subtitle text-dark font-alt ">Full Stack Web Developer</h3></div>
             
         </div>
         </div>

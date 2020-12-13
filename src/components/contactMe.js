@@ -22,9 +22,8 @@ const Contact = () => {
             <input type="submit" class="btn-primary pull-right"/>
             </div>
             <div className="u-flex">
-                <a href="https://github.com/xtasherx"><h2 className="m-1 text-light"><i class="fab fa-github"></i></h2></a>
-                <a href="https://github.com/xtasherx"><h2 className="m-1 text-light"><i class="fab fa-linkedin-in"></i></h2></a>
-                <a href="https://github.com/xtasherx"><h2 className="m-1 text-light"><i class="fab fa-stack-overflow"></i></h2></a>
+                <a href="https://github.com/glitch-ed"><h2 className="m-1 text-light"><i class="fab fa-github"></i></h2></a>
+                <a href="https://www.linkedin.com/in/eddie-villarreal-8babb0105/"><h2 className="m-1 text-light"><i class="fab fa-linkedin-in"></i></h2></a>
             </div>
 
             </div>
