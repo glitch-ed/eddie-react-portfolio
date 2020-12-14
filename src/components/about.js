@@ -5,7 +5,7 @@ import Footer from "./footer";
 const About = () => {
     return (
         <div>
-            <div className="hero fullscreen u-position-relative hero-img">
+            <div className="hero fullscreen u-align-center hero-img">
          
             <div className="hero-body u-flex u-flex-column u-justify-center u-text-center">
             <div className=" content u-text-center">

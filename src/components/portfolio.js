@@ -5,7 +5,7 @@ const Portfolio = (props) => {
     return (
         <div>
         <div className=" u-flex">
-            {props.dataOne.map((proj,i)=>(
+            {props.dataOne.map((proj)=>(
                 <div className="card bg-dark m-1"  id ="cardA" style={{"width": "350px", "height": "300px"}}>
                 <div className="card-image" id ="cardB"><img src={proj.imgUrl} style={{"width": "350px", "height": "300px"}} alt="project"></img></div>
                 <div className="title-container">
@@ -16,7 +16,7 @@ const Portfolio = (props) => {
             ))}
         </div> 
         <div className=" u-flex">
-            {props.dataTwo.map((proj,i)=>(
+            {props.dataTwo.map((proj)=>(
                 <div className="card bg-dark m-1" id ="cardA" style={{"width": "350px", "height": "300px"}}>
                 <div className="card-image" id ="cardB"><img src={proj.imgUrl} style={{"width": "350px", "height": "300px"}} alt="project"></img></div>
                 <div className="title-container">
