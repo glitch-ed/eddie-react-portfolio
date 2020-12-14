@@ -9,7 +9,7 @@ const Contact = () => {
          
             <div className="hero-body u-flex u-flex-column u-justify-center u-text-center">
             <div>
-            <h1 className="title text-dark">Say hello.</h1>
+            <h1 className="title text-dark">HOW TO FIND ME</h1>
             <div className=" ignore-screen level-item text-dark"><p className="m-0">Name:</p></div>
             <div className="ignore-screen level-item "><input type="name" value=""></input> </div>
 
