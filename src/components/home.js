@@ -1,7 +1,7 @@
 import React from "react";
 import Footer from "./footer";
 
-const Hero = () => {
+const Home = () => {
     return (
         <div>
         <div className="hero fullscreen u-position-relative hero-img">
@@ -19,4 +19,4 @@ const Hero = () => {
     )
 }
 
-export default Hero;
+export default Home;
