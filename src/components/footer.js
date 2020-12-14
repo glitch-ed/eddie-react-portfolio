@@ -3,12 +3,12 @@ import React from "react";
 
 const Footer = () => {
     return (
-        <footer className="footer mt-0 bg-primary">
-    <h6 className="footer__title text-dark uppercase">Eddie Villarreal</h6>
+        <footer className="footer mt-0 bg-dark">
+    <h6 className="footer__title text-warning uppercase">Eddie Villarreal</h6>
     <div className="content">
         <div className="divider"></div>
     </div>
-    <p className="subtitle text-dark">Eddie Villarreal © 2020</p>
+    <p className="subtitle text-warning">Eddie Villarreal © 2020</p>
 </footer>
     )
 }
