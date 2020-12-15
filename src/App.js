@@ -17,7 +17,7 @@ import About from "./components/about";
 
 function App() {
   return (
-    <Router basename="/">
+    <Router basename="/eddie-react-portfolio">
     <div>
       <Header />
       <Switch>
