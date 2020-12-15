@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.89042654.chunk.css",
-    "main.js": "/static/js/main.d99c0105.chunk.js",
-    "main.js.map": "/static/js/main.d99c0105.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c512a0a8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c512a0a8.js.map",
-    "static/css/2.3f2895b9.chunk.css": "/static/css/2.3f2895b9.chunk.css",
-    "static/js/2.52816752.chunk.js": "/static/js/2.52816752.chunk.js",
-    "static/js/2.52816752.chunk.js.map": "/static/js/2.52816752.chunk.js.map",
-    "static/js/3.3a118e68.chunk.js": "/static/js/3.3a118e68.chunk.js",
-    "static/js/3.3a118e68.chunk.js.map": "/static/js/3.3a118e68.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.3f2895b9.chunk.css.map": "/static/css/2.3f2895b9.chunk.css.map",
-    "static/css/main.89042654.chunk.css.map": "/static/css/main.89042654.chunk.css.map",
-    "static/js/2.52816752.chunk.js.LICENSE.txt": "/static/js/2.52816752.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/istockphoto-887755698-612x612.4f809563.jpg"
+    "main.css": "/eddie-react-portfolio/static/css/main.0a022283.chunk.css",
+    "main.js": "/eddie-react-portfolio/static/js/main.237059b2.chunk.js",
+    "main.js.map": "/eddie-react-portfolio/static/js/main.237059b2.chunk.js.map",
+    "runtime-main.js": "/eddie-react-portfolio/static/js/runtime-main.171a78d7.js",
+    "runtime-main.js.map": "/eddie-react-portfolio/static/js/runtime-main.171a78d7.js.map",
+    "static/css/2.3f2895b9.chunk.css": "/eddie-react-portfolio/static/css/2.3f2895b9.chunk.css",
+    "static/js/2.80a9d200.chunk.js": "/eddie-react-portfolio/static/js/2.80a9d200.chunk.js",
+    "static/js/2.80a9d200.chunk.js.map": "/eddie-react-portfolio/static/js/2.80a9d200.chunk.js.map",
+    "static/js/3.906f5864.chunk.js": "/eddie-react-portfolio/static/js/3.906f5864.chunk.js",
+    "static/js/3.906f5864.chunk.js.map": "/eddie-react-portfolio/static/js/3.906f5864.chunk.js.map",
+    "index.html": "/eddie-react-portfolio/index.html",
+    "static/css/2.3f2895b9.chunk.css.map": "/eddie-react-portfolio/static/css/2.3f2895b9.chunk.css.map",
+    "static/css/main.0a022283.chunk.css.map": "/eddie-react-portfolio/static/css/main.0a022283.chunk.css.map",
+    "static/js/2.80a9d200.chunk.js.LICENSE.txt": "/eddie-react-portfolio/static/js/2.80a9d200.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/eddie-react-portfolio/static/media/istockphoto-887755698-612x612.4f809563.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c512a0a8.js",
+    "static/js/runtime-main.171a78d7.js",
     "static/css/2.3f2895b9.chunk.css",
-    "static/js/2.52816752.chunk.js",
-    "static/css/main.89042654.chunk.css",
-    "static/js/main.d99c0105.chunk.js"
+    "static/js/2.80a9d200.chunk.js",
+    "static/css/main.0a022283.chunk.css",
+    "static/js/main.237059b2.chunk.js"
   ]
 }
