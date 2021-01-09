@@ -29,7 +29,7 @@ const About = () => {
                     <div className="col-2 level"></div>
                 </div>
                 <div className="divider text-warning"></div>
-                <h1 className="font-light text-dark">Technologies I'm Savvy In</h1>
+                <h1 className="font-light text-dark">Mastered Technologies</h1>
                 <div className="row text-dark">
                     <div className="col-3">
                         <div>
